@@ -39,6 +39,9 @@ a:hover{
     color: #eaf6f6;
     text-decoration: underline #eaf6f6 ;
 }
+.main-img{
+    width: 25%;
+}
 .top{
     background-color: #d9f7f2;
     position: relative;
